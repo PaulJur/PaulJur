@@ -3,8 +3,9 @@
 
 
 ## 🌐 Socials:
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)
-(Xinz#7104) 
+<br>![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)<br>
+(Xinz#7104)
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paulius-jurgelis-5a1b3421a/) 
 
 # 💻 Tech Stack:
@@ -17,4 +18,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=PaulJur&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
