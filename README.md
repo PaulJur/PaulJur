@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-<br>![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paulius-jurgelis-5a1b3421a/) <br>
+<br>![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulius-jurgelis-5a1b3421a/) <br>
 Xinz#7104
  
 
