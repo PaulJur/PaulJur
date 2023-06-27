@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏻 Greetings!<br><br>My name is Paulius and I'm a student that is studying game development that is based in Lithuania, Klaipėda.<br><br>💻 I always loved playing computer games as a hobby so I decided to also create them. But that is not all that I enjoy doing, I also <br>making simple apps in .NET and C++ which will be showcased on this profile.<br><br>💬 My contact email and other social media are below if you want to contact me! 
+👋🏻 Greetings!<br><br>My name is Paulius and I'm a student that is studying game development that is based in Lithuania, Klaipėda.<br><br>💻 I always loved playing computer games as a hobby so I decided to also create them. But that is not all that I enjoy doing, I also <br>making apps in .NET which will be showcased on this profile.<br><br>💬 My contact email and other social media are below if you want to contact me! 
 
 
 ## 🌐 Socials:
