@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏻 Greetings!<br><br>My name is Paulius and I'm a student that is studying game development that is based in Lithuania, Klaipėda.<br><br>💻 I always loved playing computer games as a hobby so I decided to also create them. But that is not all that I enjoy doing, I also <br>making apps in .NET which will be showcased on this profile.<br><br>💬 My contact email and other social media are below if you want to contact me! 
+👋🏻 Greetings!<br><br>My name is Paulius and I am a fresh graduate from SMK University of Applied Sciences bachelor's degree in Computer games and Animation that is based in Lithuania, Klaipėda.<br><br>💻 I always loved playing computer games as a hobby so I decided to also create them. But that is not all that I enjoy doing, I also like<br>making apps in C# which will be showcased on this profile.<br><br>💬 My contact email and other social media are below if you want to contact me! 
 
 
 ## 🌐 Socials:
@@ -9,7 +9,7 @@ Xinz#7104
 
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PaulJur&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PaulJur&theme=monokai&hide_border=false)<br/>
