@@ -9,6 +9,7 @@ Xinz#7104
 # 🖥️ Projects:
 
 <a href="https://github.com/PaulJur/Tower-Defense" rel="nofollow">Tower Defense - Porftender TD</a>
+"A randomized wave Tower defense game scripted in C# and made in Unity Game Engine. The game includes randomized waves every time the user plays, 3 stocks to choose and invest into, farming, multiple enemy and tower types."
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
