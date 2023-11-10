@@ -18,7 +18,7 @@ A puzzle game made for Android that is scripted in C# and made in Unity Game Eng
 A 2D puzzle game made on my first internship for Kiberuostas. The game is scripted in C# and made in Unity Game Engine. Includes 3 levels with increasing difficulty, the company was happy with my little game as it was made per request for as an ad.
 
 ⚔️ <a href="https://github.com/PaulJur/TurnBasedGame" rel="nofollow">Turn-Based Text-Based RPG</a>
-A Text-Based RPG made in C#. The game has a random encounter system with simple AI where it will decide to either Attack, Heal or Nothing and item dropping . Players have an inventory system, leveling and for now a single sword to equip and potions to heal with.
+This C#-based text RPG features a random encounter system with simple AI for monsters, deciding between Attack, Heal, or Defend actions. The game includes an inventory system, leveling, and equipment management with a single sword and healing potions. Notably, a JSON data saving and loading system has been implemented for seamless progress retention. The game incorporates monster scaling, adjusting difficulty as players level up. There are four distinct monster types, each capable of dodging player attacks. The game also includes one boss encounter, adding an extra layer of challenge and strategy to the gameplay.
 
 🎲 <a href="https://github.com/PaulJur/Dice-Game" rel="nofollow"> Dice Game</a>
 A simple Dice rolling game made in C# where you roll a dice against an opponent. Has scoring and shows who won.
