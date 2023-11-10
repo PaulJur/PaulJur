@@ -9,19 +9,19 @@ Xinz#7104
 # 🖥️ Projects:
 
 🏰 <a href="https://github.com/PaulJur/Tower-Defense" rel="nofollow">Tower Defense - Porftender TD</a>
-A randomized wave Tower defense game scripted in C# and made in Unity Game Engine. The game includes randomized waves every time the user plays, 3 stocks to choose and invest into, farming, multiple enemy and tower types.
+Portfender TD, my final university project, is a Unity-based randomized wave Tower Defense game scripted in C#. The game leverages Unity's features for dynamic gameplay, requiring players to adapt strategies to unpredictable waves. During a 30-second grace period, players make critical decisions, choosing between strategic tower-building or investment in three stocks, each governed by its risk-reward algorithm. This project underscores my practical experience with Unity Engine, proficiency in C# scripting, and technical skills in creating an engaging and adaptable gaming experience
 
 📱 <a href="https://github.com/PaulJur/3D-Phone-Rolling-Ball-Puzzle" rel="nofollow">3D Phone Ball Puzzle Game</a>
 A puzzle game made for Android that is scripted in C# and made in Unity Game Engine. The game has a skin system that is unlocked based on the difficulty chosen on levels, the ball is controlled by the phone's gyro control by tilting the phone. The game has 5 levels that the player can complete.
 
 🗃️ <a href="https://github.com/PaulJur/Delivery-Hell" rel="nofollow">Delivery Hell</a>
-A 2D puzzle game made on my first internship for Kiberuostas. The game is scripted in C# and made in Unity Game Engine. Includes 3 levels with increasing difficulty, the company was happy with my little game as it was made per request for as an ad.
+At my first internship with Kiberuostas, I developed a 2D puzzle game using C# in Unity. The game, created as an ad, features three levels of increasing difficulty. The company was pleased with the final product, highlighting my ability to deliver a requested and functional game.
 
 ⚔️ <a href="https://github.com/PaulJur/TurnBasedGame" rel="nofollow">Turn-Based Text-Based RPG</a>
 This C#-based text RPG features a random encounter system with simple AI for monsters, deciding between Attack, Heal, or Defend actions. The game includes an inventory system, leveling, and equipment management with a single sword and healing potions for now. Notably, a JSON data saving and loading system has been implemented. The game incorporates monster scaling, adjusting difficulty as players level up. There are four distinct monster types, each capable of dodging player attacks. The game also includes one boss encounter, adding an extra layer of challenge and strategy to the gameplay.
 
 🎲 <a href="https://github.com/PaulJur/Dice-Game" rel="nofollow"> Dice Game</a>
-A simple Dice rolling game made in C# where you roll a dice against an opponent. Has scoring and shows who won.
+Experience a quick and fun C# Dice Rolling Game. Roll the dice, score points, and see who wins in this easy and engaging showdown against your opponent.
 
 🗄️ <a href="https://github.com/PaulJur/Habbit-Logger" rel="nofollow">Habbit Logger</a>
 A Habit Logger made with SQLite and C#. It creates a local database which you can input the amount of glasses you drank today.
