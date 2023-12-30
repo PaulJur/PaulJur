@@ -32,6 +32,9 @@ Order App was made with SQLite and C#. The application will create it's own loca
 🏫 <a href="https://github.com/PaulJur/University-Work" rel="nofollow">University Projects</a>
 C++ and C# projects during university years.
 
+🗄️ <a href="https://github.com/PaulJur/CrudWPF" rel="nofollow"> CRUD operations WPF application</a>
+CRUD operations application made with .NET, Entity framework and WPF with local host connection to SQL server managment for data control.
+
 🛠️ Currently working on learning Entity framework, WPF and database related applications
 
 # 📚 Tech Stack:
