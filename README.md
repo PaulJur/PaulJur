@@ -35,6 +35,9 @@ C++ and C# projects during university years.
 🗄️ <a href="https://github.com/PaulJur/CrudWPF" rel="nofollow"> CRUD operations WPF application</a>
 CRUD operations application made with .NET, Entity framework, WPF and Xaml with local host connection to SQL server managment for data control.
 
+🗄️ <a href="https://github.com/PaulJur/WebApplication_MVC" rel="nofollow"> An ASP.NET CRUD operations website with Identity framework authentication</a>
+A website built on ASP.NET MVC using Entity framework as the ORM for data control and Identity framework for user authentication and role management.
+
 🛠️ Currently working on learning Entity framework, WPF and database related applications
 
 # 📚 Tech Stack:
