@@ -44,8 +44,6 @@ A website built on ASP.NET MVC using Entity framework as the ORM for data contro
 # 📚 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PaulJur&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PaulJur&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulJur&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=PaulJur&icon=2&color=4)](https://visitcount.itsvg.in)
