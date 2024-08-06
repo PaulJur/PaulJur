@@ -39,7 +39,7 @@ CRUD operations application made with .NET, Entity framework, WPF and Xaml with 
 🗄️ <a href="https://github.com/PaulJur/LoginASPMVC_Database" rel="nofollow"> An ASP.NET CRUD operations website with Identity framework authentication</a>
 A website built on ASP.NET MVC using Entity framework as the ORM for data control and Identity framework for user authentication and role management.
 
-🛠️ Currently working on private projects to learn Unit testing and repository design patterns
+🛠️ Currently working on a gym application for a client
 
 # 📚 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
